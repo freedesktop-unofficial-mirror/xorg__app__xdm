@@ -1,4 +1,4 @@
-.\" $XdotOrg: xc/programs/xdm/xdm.man,v 1.1.4.3 2003/12/06 13:24:29 kaleb Exp $
+.\" $XdotOrg: xc/programs/xdm/xdm.man,v 1.2 2004/04/23 19:54:42 eich Exp $
 .\" $Xorg: xdm.man,v 1.4 2001/02/09 02:05:41 xorgcvs Exp $
 .\" Copyright 1988, 1994, 1998  The Open Group
 .\"
